@@ -1,2 +1,2 @@
 # Adjectives
-Accompanying submission of "The Gap Between Modeling Input and Modeling Acquisition"
+Accompanying data and code for submission of "The Gap Between Modeling Input and Modeling Acquisition"
